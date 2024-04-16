@@ -1,0 +1,21 @@
+input{
+    padding: 15px;
+    width: 350px;
+    border-radius: 25px;
+    border: none;
+    margin: 10px;
+}
+button{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 150px;
+    height: 60px;
+}
+
+button:hover{
+    background-color: #616161;
+}
+button:active{
+    background-color: #4b4b4b;
+}

@@ -1,0 +1,17 @@
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.conteiner{
+  border: solid;
+  padding: 50px;
+  max-width: 500px;
+  min-height: 550px;
+  margin: 25px auto;
+  background-color: rgb(31, 31, 31);
+}
+h1{
+  padding: 0px 0px 20px 15px;
+  font-weight: 800;
+}
